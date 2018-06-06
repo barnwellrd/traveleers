@@ -41,6 +41,15 @@ Sean was here
 		
 	- Site:
 		- Basic Functional Idea
+			- User membership
+			- Location Directories
+				- Country
+				- State
+				- National Park
+			- Photo Upload
+			- Comments
+			- Tags
+			- Live Feed	
 		- Basic Layout
 		- Basic Database
 	

@@ -1,1 +1,46 @@
 NOTES:
+
+- Roles:
+	- Frontend 
+		- Html
+		- CSS
+		- Javascript
+	- Backend
+		- PHP
+		- SQL
+	- Database
+		- SQL
+		- Database Design
+		
+		
+- ToDo
+
+	- Sean:
+		- Study up:
+			- Html
+			- CSS
+			- JavaScript
+			- Github
+			
+		- Setup:
+			- Github
+			- XAMPP
+			- GitKraken
+			- Visual Studio Code
+	
+	
+	- Ricky:
+		- Study:
+			- PHP
+			- CSS
+			- Javascript
+			- Database Design
+			- SQL
+		- Share Github
+		
+		
+	- Site:
+		- Basic Functional Idea
+		- Basic Layout
+		- Basic Database
+	

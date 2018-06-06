@@ -1,5 +1,5 @@
 NOTES:
-Sean was here
+
 - Roles:
 	- Frontend 
 		- Html
